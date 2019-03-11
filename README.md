@@ -67,3 +67,17 @@ think and collection
 ### 小程序
 
 1. canvas
+
+## RESTful API
+
+> [RESTful API 设计规范](https://github.com/godruoyi/restful-api-specification)
+
+* `必须 (MUST)`：绝对，严格遵循，请照做，无条件遵守；
+* `一定不可 (MUST NOT)`：禁令，严令禁止；
+* `应该 (SHOULD)` ：强烈建议这样做，但是不强求；
+* `不该 (SHOULD NOT)`：强烈不建议这样做，但是不强求；
+* `可以 (MAY)` 和 `可选 (OPTIONAL)` ：选择性高一点;
+
+## blog
+
+> [淘宝前端团队](http://taobaofed.org/)
