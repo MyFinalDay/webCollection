@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b0c496e-927b-41fe-b704-29e858d12866" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/ABOUT_COMMIT.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/TODO.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egdocs/NAME_CONTRAST.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Lang/css.md" beforeDir="false" afterPath="$PROJECT_DIR$/egdocs/Lang/css.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/NAME_CONTRAST.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/NAME_CONTRAST.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/business/a.md" beforeDir="false" afterPath="$PROJECT_DIR$/egdocs/business/a.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/perfom.md" beforeDir="false" afterPath="$PROJECT_DIR$/egdocs/perfom.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/word_case.md" beforeDir="false" afterPath="$PROJECT_DIR$/egdocs/word_case.md" afterDir="false" />
-    </list>
+    <list default="true" id="3b0c496e-927b-41fe-b704-29e858d12866" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -269,12 +259,12 @@
       <workItem from="1551750380771" duration="194000" />
       <workItem from="1552271703191" duration="4000" />
       <workItem from="1552273036713" duration="2622000" />
-      <workItem from="1552371180188" duration="1191000" />
+      <workItem from="1552371180188" duration="1780000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20068000" />
+    <option name="totallyTimeSpent" value="20657000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
