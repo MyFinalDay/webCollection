@@ -74,7 +74,7 @@ TAPD、Teambition、Tower、Worktile，Jira、Redmine
 
 ## 记录
 
-## 强制性
+## 唯一性
 
 测试评审，okr，白板
 
