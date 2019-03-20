@@ -26,7 +26,7 @@ TAPD、Teambition、Tower、Worktile，Jira、Redmine
 6.移动化支持
 
 
-# 好处
+# 优点
 
 
 ## 流程的完整性
@@ -59,7 +59,7 @@ TAPD、Teambition、Tower、Worktile，Jira、Redmine
 
 ## 客观， 精确度更高
 
-## 单向性，
+## 单向性
 
 1.改了又改回去
 
@@ -82,3 +82,8 @@ TAPD、Teambition、Tower、Worktile，Jira、Redmine
 
 需要思考，执行
 
+# 缺点
+
+1.现有重复了
+
+2.
