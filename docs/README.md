@@ -87,3 +87,5 @@ TAPD、Teambition、Tower、Worktile，Jira、Redmine
 1.现有重复了
 
 2.
+
+<img src="https://wbiao-test.oss-cn-hangzhou.aliyuncs.com/mall/6be0c8d6bfa94564be04d77b5c18023d.png" width="379" height="148"/>
