@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b0c496e-927b-41fe-b704-29e858d12866" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3b0c496e-927b-41fe-b704-29e858d12866" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -56,8 +54,8 @@
         <entry file="file://$PROJECT_DIR$/docs/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="405">
-                <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+              <first_editor relative-caret-position="576">
+                <caret line="89" selection-start-line="89" selection-end-line="89" />
               </first_editor>
               <second_editor />
             </state>
@@ -159,6 +157,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -202,7 +201,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -266,11 +264,12 @@
       <workItem from="1552986119196" duration="4248000" />
       <workItem from="1553041769917" duration="3874000" />
       <workItem from="1553652376630" duration="15000" />
+      <workItem from="1553674431188" duration="246000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30848000" />
+    <option name="totallyTimeSpent" value="31094000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -505,8 +504,8 @@
     <entry file="file://$PROJECT_DIR$/docs/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="405">
-            <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+          <first_editor relative-caret-position="576">
+            <caret line="89" selection-start-line="89" selection-end-line="89" />
           </first_editor>
           <second_editor />
         </state>
